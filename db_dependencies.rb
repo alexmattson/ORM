@@ -1,0 +1,6 @@
+require_relative 'question_super.rb'
+require_relative 'question_follows.rb'
+require_relative 'question_likes.rb'
+require_relative 'questions.rb'
+require_relative 'replies.rb'
+require_relative 'users.rb'
